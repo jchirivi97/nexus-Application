@@ -21,6 +21,9 @@
 Nota: No es necesario contar con un login para saber que usuario está realizando las acciones, en
 cada acción se puede elegir el usuario (previamente creados en BD) en un menú desplegable.
 
+### Elaborado
+- Jimmy Armando Chirivi Nivia
+
 ### Tecnología
 
 Backend
